@@ -9,28 +9,6 @@ This project is a test automation framework designed to perform manual and autom
 - Google Chrome Browser
 - ChromeDriver (should be compatible with your Google Chrome browser version)
 
-## Project Structure
-
-The project is organized as follows:
-
-```plaintext
-src
-├── main
-│   └── java
-│       └── pages
-│           ├── HomePage.java
-│           ├── ProductPage.java
-│           └── BasketPage.java
-└── test
-    └── java
-        ├── steps
-        │   └── IdeaSoftTest.java
-        └── utils
-            ├── TestBase.java
-            └── driver
-                └── DriverFactory.java
-
-```
 
 ## Project Content
 
