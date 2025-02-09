@@ -12,7 +12,7 @@ This project is a test automation framework designed to perform manual and autom
 
 ## Project Content
 
-  -Test Case 1: Verify Home Page URL and Search Product
+  - Test Case 1: Verify Home Page URL and Search Product
     Test Name: verifyHomePageUrlAndSearchProduct
     Description: Verifies the home page URL and searches for the term "Product."
     Steps:
@@ -20,7 +20,7 @@ This project is a test automation framework designed to perform manual and autom
     Enter "Product" in the search box and search.
     Click on the listed product.
 
-  -Test Case 2: View Product Details and Add Product to Basket
+  - Test Case 2: View Product Details and Add Product to Basket
     Test Name: productDetailAndAddProduct
     Description: Views the product details and adds 5 units of the product to the basket.
     Steps:
@@ -28,7 +28,7 @@ This project is a test automation framework designed to perform manual and autom
     Verify the "Added to your basket" message.
     Click the basket button.
 
-  -Test Case 3: Verify Product Quantity in Basket
+  - Test Case 3: Verify Product Quantity in Basket
     Test Name: verifyBasketValue
     Description: Verifies the quantity of products in the basket.
     Steps:
