@@ -1,0 +1,42 @@
+[
+  {
+    "key": "SearchInputLocator",
+    "value": "q",
+    "type": "name"
+  },
+  {
+    "key": "ProductLocator",
+    "value": "//img[@alt='test ürünüdür']",
+    "type": "xpath"
+  },
+  {
+    "key": "SearchButtonLocator",
+    "value": "form[data-selector='search-form'] button",
+    "type": "css"
+  },
+  {
+    "key": "PlusLocator",
+    "value": "//a[@aria-label='Increase Quantity']",
+    "type": "xpath"
+  },
+  {
+    "key": "BasketButtonLocator",
+    "value": ".add-to-cart-button",
+    "type": "css"
+  },
+  {
+    "key": "BasketSuccessLocator",
+    "value": ".shopping-information-cart-inside",
+    "type": "css"
+  },
+  {
+    "key": "BasketLocator",
+    "value": "a[title='Sepet']",
+    "type": "css"
+  },
+  {
+    "key": "BasketProductValueLocator",
+    "value": "[data-selector='qty']",
+    "type": "css"
+  }
+]
