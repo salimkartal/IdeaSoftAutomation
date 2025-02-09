@@ -57,5 +57,5 @@ src
     Check and verify the quantity of products in the basket.
 
 
----Author---
+## Author
 Salim Kartal
